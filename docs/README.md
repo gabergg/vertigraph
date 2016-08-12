@@ -1,9 +1,8 @@
-## Documentation
+## Table of Contents
 
-* [Overview](index.md)
-* [Getting Started](getting-started.md)
-* Recipes
-  * [Testing with <code>mocha</code> and <code>jsdom</code>](recipes/testing-with-mocha-and-jsdom.md)
-  * [Throwing errors with FB's <code>invariant</code> library](recipes/throwing-errors-with-fbjs-invariant.md)
-
-See also [www.kriasoft.com/babel-starter-kit](https://www.kriasoft.com/babel-starter-kit/)
+- [Routing and Navigation](routing-and-navigation.md)
+- Recipes
+  - [How to Publish Website to Amazon S3](recipes/deploy-to-amazon-s3.md)
+  - [How to Publish Website to GitHub Pages](recipes/deploy-to-github-pages.md)
+  - [How to Integrate Material Design Lite (MDL)](recipes/how-to-integrate-material-design-lite.md)
+  - [How to Use Sass/SCSS](recipes/how-to-use-sass.md)
