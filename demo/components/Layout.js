@@ -8,8 +8,17 @@
  * LICENSE.txt file in the root directory of this source tree.
  */
 
-.content {
-  margin: 0 auto;
-  max-width: 1000px;
-  width: 100%;
+import React, { PropTypes } from 'react';
+
+class Layout extends React.Component {
+
+  render() {
+    return (
+      <div>
+        {this.props.children}
+      </div>
+    );
+  }
 }
+
+export default Layout;
